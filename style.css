@@ -72,7 +72,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 6rem;
+    gap: 4rem;
     background: linear-gradient(135deg, #1a2a6c, #4bb754); /* Gradiente moderno */
     color: white;
 }
